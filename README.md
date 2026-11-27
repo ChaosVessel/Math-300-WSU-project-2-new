@@ -2,6 +2,9 @@
 
 No AI was used in this project.
 
+author-contributions statement
+Raymond Hallett did this project
+
 References
 Dr Barker. (2025, December 4). Continued fractions for square roots [Video]. YouTube. https://www.youtube.com/watch?v=bnRLjxuTaq8
 Hyperbolic functions. (2026). In Wikipedia. https://en.wikipedia.org/w/index.php?title=Hyperbolic_functions&oldid=1377637478
